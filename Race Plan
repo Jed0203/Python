@@ -1,0 +1,14 @@
+What program are we going to create?
+  We are going to create a racing game. The user will have control of a car and be able to move it around to stay on the road. If we have time and the understanding
+  we will implement a car that will run the course that the user can race against.
+
+What technologies will we use?
+  We will be using object-orientied programming and importing the arcade library in order to play the game.
+
+What features will we include? The goal of asking this question is to identify what will and what won't be included.
+  Start screen with a list of controls that handle the movement of the car. A timer to track how long it takes to complete the course. Ability to replay
+  without exiting the program? Different levels of course difficutly for the user to choose from.
+  
+
+What is your timeline?
+  Have a race track and moving car by the end of next week!
